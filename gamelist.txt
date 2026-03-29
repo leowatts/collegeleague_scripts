@@ -1,0 +1,55 @@
+[GW1 MT3] Hertford vs Hildas
+[GW1 MT3] Jahns vs Spades
+[GW1 MT3] Wolfson/Hughs vs Worcester
+[GW1 MT3] Five Seas vs Baliol
+[GW1 MT3] Merton vs Brasenose
+[GW2 MT4] Hertford vs Spades
+[GW2 MT4] Hildas vs Turl St
+[GW2 MT4] Jahns vs Worcester
+[GW2 MT4] Wolfson/Hughs vs Brasenose
+[GW2 MT4] Five Seas vs Merton
+[GW3 MT5] Hertford vs Turl St
+[GW3 MT5] Spades vs Worcester
+[GW3 MT5] Hildas vs Baliol
+[GW3 MT5] Jahns vs Brasenose
+[GW3 MT5] Wolfson/Hughs vs Five Seas
+[GW4 MT6] Hertford vs Worcester
+[GW4 MT6] Turl St vs Baliol
+[GW4 MT6] Spades vs Brasenose
+[GW4 MT6] Hildas vs Merton
+[GW4 MT6] Jahns vs Five Seas
+[GW5 HT0] Hertford vs Baliol
+[GW5 HT0] Worcester vs Brasenose
+[GW5 HT0] Turl St vs Merton
+[GW5 HT0] Spades vs Five Seas
+[GW5 HT0] Hildas vs Wolfson/Hughs
+[GW6 HT1] Hertford vs Brasenose
+[GW6 HT1] Baliol vs Merton
+[GW6 HT1] Worcester vs Five Seas
+[GW6 HT1] Turl St vs Wolfson/Hughs
+[GW6 HT1] Hildas vs Jahns
+[GW7 HT2] Hertford vs Merton
+[GW7 HT2] Brasenose vs Five Seas
+[GW7 HT2] Baliol vs Wolfson/Hughs
+[GW7 HT2] Turl St vs Jahns
+[GW7 HT2] Spades vs Hildas
+[GW8 HT3] Hertford vs Five Seas
+[GW8 HT3] Merton vs Wolfson/Hughs
+[GW8 HT3] Baliol vs Jahns
+[GW8 HT3] Worcester vs Hildas
+[GW8 HT3] Turl St vs Spades
+[GW9 HT4] Hertford vs Wolfson/Hughs
+[GW9 HT4] Merton vs Jahns
+[GW9 HT4] Brasenose vs Hildas
+[GW9 HT4] Baliol vs Spades
+[GW9 HT4] Worcester vs Turl St
+[GW10 HT5] Wolfson/Hughs vs Jahns
+[GW10 HT5] Five Seas vs Hildas
+[GW10 HT5] Merton vs Spades
+[GW10 HT5] Brasenose vs Turl St
+[GW10 HT5] Baliol vs Worcester
+[GW11 HT6] Hertford vs Jahns
+[GW11 HT6] Wolfson/Hughs vs Spades
+[GW11 HT6] Five Seas vs Turl St
+[GW11 HT6] Merton vs Worcester
+[GW11 HT6] Brasenose vs Baliol

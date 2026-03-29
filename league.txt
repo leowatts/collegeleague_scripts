@@ -1,0 +1,91 @@
+=== GAMEWEEK 1 (end of MT3) ===
+Hertford vs Hildas
+Jahns vs Spades
+Wolfson/Hughs vs Worcester
+Five Seas vs Baliol
+Merton vs Brasenose
+Turl St [bye]
+
+=== GAMEWEEK 2 (end of MT4) ===
+Hertford vs Spades
+Hildas vs Turl St
+Jahns vs Worcester
+Wolfson/Hughs vs Brasenose
+Five Seas vs Merton
+Baliol [bye]
+
+=== GAMEWEEK 3 (end of MT5) ===
+Hertford vs Turl St
+Spades vs Worcester
+Hildas vs Baliol
+Jahns vs Brasenose
+Wolfson/Hughs vs Five Seas
+Merton [bye]
+
+=== GAMEWEEK 4 (end of MT6) ===
+Hertford vs Worcester
+Turl St vs Baliol
+Spades vs Brasenose
+Hildas vs Merton
+Jahns vs Five Seas
+Wolfson/Hughs [bye]
+
+=== NO GAMEWEEK (end of MT7) ===
+No games - Hat Tournament on Sunday 30th
+
+=== GAMEWEEK 5 (end of HT0) ===
+Hertford vs Baliol
+Worcester vs Brasenose
+Turl St vs Merton
+Spades vs Five Seas
+Hildas vs Wolfson/Hughs
+Jahns [bye]
+
+=== GAMEWEEK 6 (end of HT1) ===
+Hertford vs Brasenose
+Baliol vs Merton
+Worcester vs Five Seas
+Turl St vs Wolfson/Hughs
+Hildas vs Jahns
+Spades [bye]
+
+=== GAMEWEEK 7 (end of HT2) ===
+Hertford vs Merton
+Brasenose vs Five Seas
+Baliol vs Wolfson/Hughs
+Turl St vs Jahns
+Spades vs Hildas
+Worcester [bye]
+
+=== GAMEWEEK 8 (end of HT3) ===
+Hertford vs Five Seas
+Merton vs Wolfson/Hughs
+Baliol vs Jahns
+Worcester vs Hildas
+Turl St vs Spades
+Brasenose [bye]
+
+=== GAMEWEEK 9 (end of HT4) ===
+Hertford vs Wolfson/Hughs
+Merton vs Jahns
+Brasenose vs Hildas
+Baliol vs Spades
+Worcester vs Turl St
+Five Seas [bye]
+
+=== GAMEWEEK 10 (end of HT5) ===
+Wolfson/Hughs vs Jahns
+Five Seas vs Hildas
+Merton vs Spades
+Brasenose vs Turl St
+Baliol vs Worcester
+Hertford [bye]
+
+=== GAMEWEEK 11 (end of HT6) ===
+Hertford vs Jahns
+Wolfson/Hughs vs Spades
+Five Seas vs Turl St
+Merton vs Worcester
+Brasenose vs Baliol
+Hildas [bye]
+

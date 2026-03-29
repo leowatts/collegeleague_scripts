@@ -1,0 +1,55 @@
+GW1,MT3,Hertford,Hildas
+GW1,MT3,Jahns,Spades
+GW1,MT3,Wolfson/Hughs,Worcester
+GW1,MT3,Five Seas,Baliol
+GW1,MT3,Merton,Brasenose
+GW2,MT4,Hertford,Spades
+GW2,MT4,Hildas,Turl St
+GW2,MT4,Jahns,Worcester
+GW2,MT4,Wolfson/Hughs,Brasenose
+GW2,MT4,Five Seas,Merton
+GW3,MT5,Hertford,Turl St
+GW3,MT5,Spades,Worcester
+GW3,MT5,Hildas,Baliol
+GW3,MT5,Jahns,Brasenose
+GW3,MT5,Wolfson/Hughs,Five Seas
+GW4,MT6,Hertford,Worcester
+GW4,MT6,Turl St,Baliol
+GW4,MT6,Spades,Brasenose
+GW4,MT6,Hildas,Merton
+GW4,MT6,Jahns,Five Seas
+GW5,HT0,Hertford,Baliol
+GW5,HT0,Worcester,Brasenose
+GW5,HT0,Turl St,Merton
+GW5,HT0,Spades,Five Seas
+GW5,HT0,Hildas,Wolfson/Hughs
+GW6,HT1,Hertford,Brasenose
+GW6,HT1,Baliol,Merton
+GW6,HT1,Worcester,Five Seas
+GW6,HT1,Turl St,Wolfson/Hughs
+GW6,HT1,Hildas,Jahns
+GW7,HT2,Hertford,Merton
+GW7,HT2,Brasenose,Five Seas
+GW7,HT2,Baliol,Wolfson/Hughs
+GW7,HT2,Turl St,Jahns
+GW7,HT2,Spades,Hildas
+GW8,HT3,Hertford,Five Seas
+GW8,HT3,Merton,Wolfson/Hughs
+GW8,HT3,Baliol,Jahns
+GW8,HT3,Worcester,Hildas
+GW8,HT3,Turl St,Spades
+GW9,HT4,Hertford,Wolfson/Hughs
+GW9,HT4,Merton,Jahns
+GW9,HT4,Brasenose,Hildas
+GW9,HT4,Baliol,Spades
+GW9,HT4,Worcester,Turl St
+GW10,HT5,Wolfson/Hughs,Jahns
+GW10,HT5,Five Seas,Hildas
+GW10,HT5,Merton,Spades
+GW10,HT5,Brasenose,Turl St
+GW10,HT5,Baliol,Worcester
+GW11,HT6,Hertford,Jahns
+GW11,HT6,Wolfson/Hughs,Spades
+GW11,HT6,Five Seas,Turl St
+GW11,HT6,Merton,Worcester
+GW11,HT6,Brasenose,Baliol
